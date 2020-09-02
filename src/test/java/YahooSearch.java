@@ -25,11 +25,11 @@ public class YahooSearch {
     }
 
     //1) go to yahoo main page
-    //2) Type the search query
+    //2) Type the search query (for example: SiliconValleyVoice)
     //3) Submit the query
     //4) Verify that results page is displayed
-    //5) find portnov website link
-    //6) click portnov website link
+    //5) find SiliconValleyVoice youtube link
+    //6) click SiliconValleyVoice youtube link
 
     @Test
     public void test0001() {
